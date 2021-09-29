@@ -2,11 +2,11 @@ title: Blog Bibliotheks- und Archivinformatik
 author: Alexandra Köchling
 email: alexandra.koechling@fhgr.ch
 description: > # this means to ignore newlines
-  Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
+  Lerntagebuch Alexandra Köchling im Kurs Bibliotheks- und Archivinformatik FS2020
 
 # social links
-twitter_username: felixlohmeier # DO NOT include the @ character, or else the build will fail!
-github_username:  felixlohmeier # DO NOT include the @ character, or else the build will fail!
+
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
