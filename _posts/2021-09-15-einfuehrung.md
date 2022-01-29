@@ -14,7 +14,7 @@ In diesem Lerntagebuch möchte ich meine Erkenntnisse im Kurs "Bibliotheks- und 
 
 ## Erfahrungen mit Bibliotheks- und Archivinformatik
 Erfahrungen mit Bibliotheks- und Archivinformatik habe ich ausschliesslich von der Anwenderseite her, beispielsweise beim Tätigen von Recherchen in Katalogen. In meinem Berufsalltag arbeite ich mit dem Bibliothekssystem ALEPH, hauptsächlich mit dem Ausleih- sowie dem Katalogisierungsmodul. Da die Bibliothek einem Verbund angeschlossen ist, kümmern sich jedoch Systembibliothekare um den ganzen Informatikbereich. Wir erhalten laufend Informationen zu Änderungen im System, einen vertieften Einblick konnte ich mir bisher aber nicht verschaffen.
-Durch das Studium erhielt ich einen oberflächlichen Einblick in die Bibliothekssysteme ALMA und Koha. Ebenfalls konnte ich verschiedenen Modulen bereits Erfahrungen im Bereich Informatik sammeln, sowie Metadatenstandards, beispielsweise Marc21, vertiefen. 
+Durch das Studium erhielt ich einen oberflächlichen Einblick in die Bibliothekssysteme ALMA und Koha. Ebenfalls konnte ich verschiedenen Modulen bereits Erfahrungen im Bereich Informatik sammeln, sowie Metadatenstandards, beispielsweise MARC21, vertiefen. 
 
 ## Meine Erwartungen an den Kurs Bibliotheks- und Achivinformatik
 Vom Kurs erwarte ich, dass ich mehr über die Hintergründe und den Aufbau von Bibliotheks- und Archivsystemen erfahre, Verknüpfungen zu anderen Modulen herstellen und von dem Erlernten im Berufsalltag profitieren kann. Insbesondere würde ich mir einen grösseren Einblick in das Bibliothekssystem ALMA wünschen, da in unserem Bibliotheksverbund bald der Wechsel von ALEPH zu ALMA ansteht. 
